@@ -1,0 +1,30 @@
+{
+  "name": "@pemkotbekasi/r_3030",
+  "version": "0.0.1",
+  "description": "api api",
+  "main": "./src/factory/index.js",
+  "scripts": {
+    "test": "node tes/tes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pemkotbekasi/r_3030/"
+  },
+  "keywords": [
+    "siap",
+    "bkd",
+    "kepegawaian"
+  ],
+  "author": "rahadiana nugraha <rahadiana.nugraha@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@rahadiana/node_response_standard": "^0.0.1",
+    "axios": "^1.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
