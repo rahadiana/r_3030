@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "@rahadiana/node_response_standard": "^0.0.1",
-    "axios": "^1.2.0"
+    "axios": "^1.6.0"
   },
   "directories": {
     "test": "test"
